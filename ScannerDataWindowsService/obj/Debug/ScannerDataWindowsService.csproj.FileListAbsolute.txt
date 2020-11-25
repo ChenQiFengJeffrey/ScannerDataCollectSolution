@@ -1,0 +1,14 @@
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe.config
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.pdb
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\Newtonsoft.Json.dll
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\System.Data.SQLite.dll
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\Newtonsoft.Json.pdb
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\Newtonsoft.Json.xml
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\obj\Debug\ScannerDataWindowsService.ProjectInstaller.resources
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\obj\Debug\ScannerDataWindowsService.csproj.GenerateResource.cache
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\obj\Debug\ScannerDataWindowsService.exe
+D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\obj\Debug\ScannerDataWindowsService.pdb
+D:\Projects\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe.config
+D:\Projects\ScannerDataCollectSolution\ScannerDataWindowsService\obj\Debug\ScannerDataWindowsService.exe
+D:\Projects\ScannerDataCollectSolution\ScannerDataWindowsService\obj\Debug\ScannerDataWindowsService.pdb

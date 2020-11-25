@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.CodeRush.Foundation.Markers.SolutionBookmarksContainer">
+  <Options Language="Neutral">
+    <Items>
+      <Item Id="{7edc7da3-12ed-4e07-91c7-0648ba2bb9ca}">
+        <Id>1</Id>
+        <File>ScannerDataCollectSolution\ScannerDataCollect\MainApp.cs</File>
+        <Line>695</Line>
+        <Character>12</Character>
+      </Item>
+      <Item Id="{eb8f2b67-daa4-4566-a79e-499b836f8a6e}">
+        <Id>2</Id>
+        <File>ScannerDataCollectSolution\ScannerDataCollect\MainApp.cs</File>
+        <Line>718</Line>
+        <Character>34</Character>
+        <ViewportTop>699</ViewportTop>
+        <ViewportTopMax>824</ViewportTopMax>
+        <TopLine>699</TopLine>
+      </Item>
+    </Items>
+  </Options>
+</Root>

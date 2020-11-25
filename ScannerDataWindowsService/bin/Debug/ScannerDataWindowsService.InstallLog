@@ -1,0 +1,1278 @@
+﻿正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+警告: 源 ScannerDataService 未在本地计算机上注册。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+尝试停止服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。
+正在安装程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在安装服务 ScannerDataService...
+已成功安装服务 ScannerDataService。
+正在日志 Application 中创建 EventLog 源 ScannerDataService...
+查看日志文件的内容以获得 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe 程序集的进度。
+该文件位于 D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog。
+正在提交程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+正在卸载程序集“D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe”。
+受影响的参数是:
+   assemblypath = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.exe
+   logfile = D:\company_coding\ScannerDataCollectSolution\ScannerDataWindowsService\bin\Debug\ScannerDataWindowsService.InstallLog
+正在移除 EventLog 源 ScannerDataService。
+正在从系统中移除服务 ScannerDataService...
+已成功地从系统中移除服务 ScannerDataService。

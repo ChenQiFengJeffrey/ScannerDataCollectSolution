@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SetHanNanJsonData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="jsonstr" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetHanNanJsonDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SetHanNanJsonDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SetHanNanJsonDataSoapIn">
+    <wsdl:part name="parameters" element="tns:SetHanNanJsonData" />
+  </wsdl:message>
+  <wsdl:message name="SetHanNanJsonDataSoapOut">
+    <wsdl:part name="parameters" element="tns:SetHanNanJsonDataResponse" />
+  </wsdl:message>
+  <wsdl:portType name="HannanServiceSoap">
+    <wsdl:operation name="SetHanNanJsonData">
+      <wsdl:input message="tns:SetHanNanJsonDataSoapIn" />
+      <wsdl:output message="tns:SetHanNanJsonDataSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="HannanServiceSoap" type="tns:HannanServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SetHanNanJsonData">
+      <soap:operation soapAction="http://tempuri.org/SetHanNanJsonData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="HannanServiceSoap12" type="tns:HannanServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SetHanNanJsonData">
+      <soap12:operation soapAction="http://tempuri.org/SetHanNanJsonData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HannanService">
+    <wsdl:port name="HannanServiceSoap" binding="tns:HannanServiceSoap">
+      <soap:address location="http://192.168.88.121:9850/HannanService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="HannanServiceSoap12" binding="tns:HannanServiceSoap12">
+      <soap12:address location="http://192.168.88.121:9850/HannanService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

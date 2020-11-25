@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://192.168.88.94:9000",
+  "Organization": null,
+  "ProjectKey": "SystemBaseLibrarySolution",
+  "ProjectName": "SystemBaseLibrarySolution",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AWq6TmaYAjWmMalyUXUy",
+      "ProfileTimestamp": "2019-05-15T23:03:03+08:00"
+    }
+  }
+}
