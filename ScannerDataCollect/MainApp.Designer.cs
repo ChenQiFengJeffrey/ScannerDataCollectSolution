@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainApp));
-            DevExpress.XtraGrid.GridGroupSummaryItem gridGroupSummaryItem1 = new DevExpress.XtraGrid.GridGroupSummaryItem();
             this.ssbServiceAddr = new System.Windows.Forms.ToolStripSplitButton();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -72,11 +71,12 @@
             this.btnRun = new System.Windows.Forms.Button();
             this.tabPane1 = new DevExpress.XtraBars.Navigation.TabPane();
             this.statusStrip1.SuspendLayout();
+            this.tabNavigationPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1.Panel1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1.Panel2)).BeginInit();
+            this.splitContainerControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).BeginInit();
+            this.tabNavigationPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             this.panel1.SuspendLayout();
@@ -103,16 +103,17 @@
             this.ssbServiceAddr,
             this.toolStripStatusLabel1,
             this.tssb_abountme});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 531);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 670);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(983, 26);
+            this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 19, 0);
+            this.statusStrip1.Size = new System.Drawing.Size(1311, 26);
             this.statusStrip1.TabIndex = 4;
             this.statusStrip1.Text = "statusStrip1";
             // 
             // toolStripStatusLabel1
             // 
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(906, 21);
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(1222, 21);
             this.toolStripStatusLabel1.Spring = true;
             // 
             // tssb_abountme
@@ -122,7 +123,7 @@
             this.tssb_abountme.Image = ((System.Drawing.Image)(resources.GetObject("tssb_abountme.Image")));
             this.tssb_abountme.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tssb_abountme.Name = "tssb_abountme";
-            this.tssb_abountme.Size = new System.Drawing.Size(37, 24);
+            this.tssb_abountme.Size = new System.Drawing.Size(44, 24);
             this.tssb_abountme.Text = "关于";
             this.tssb_abountme.Click += new System.EventHandler(this.Tssb_abountme_Click);
             // 
@@ -130,47 +131,33 @@
             // 
             this.tabNavigationPage2.Caption = "数据查询";
             this.tabNavigationPage2.Controls.Add(this.splitContainerControl1);
-            this.tabNavigationPage2.Enabled = true;
+            this.tabNavigationPage2.Margin = new System.Windows.Forms.Padding(4);
             this.tabNavigationPage2.Name = "tabNavigationPage2";
-            this.tabNavigationPage2.Size = new System.Drawing.Size(983, 508);
+            this.tabNavigationPage2.Size = new System.Drawing.Size(1311, 635);
             // 
             // splitContainerControl1
             // 
             this.splitContainerControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainerControl1.Horizontal = false;
             this.splitContainerControl1.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl1.Margin = new System.Windows.Forms.Padding(4);
             this.splitContainerControl1.Name = "splitContainerControl1";
-            // 
-            // 
-            // 
             this.splitContainerControl1.Panel1.Controls.Add(this.btn_Excel);
             this.splitContainerControl1.Panel1.Controls.Add(this.btnSave);
-            this.splitContainerControl1.Panel1.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl1.Panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.splitContainerControl1.Panel1.Name = "";
-            this.splitContainerControl1.Panel1.Size = new System.Drawing.Size(983, 35);
-            this.splitContainerControl1.Panel1.TabIndex = 0;
             this.splitContainerControl1.Panel1.Text = "Panel1";
-            // 
-            // 
-            // 
             this.splitContainerControl1.Panel2.Controls.Add(this.gridControl2);
             this.splitContainerControl1.Panel2.Controls.Add(this.listView1);
-            this.splitContainerControl1.Panel2.Location = new System.Drawing.Point(0, 40);
-            this.splitContainerControl1.Panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.splitContainerControl1.Panel2.Name = "";
-            this.splitContainerControl1.Panel2.Size = new System.Drawing.Size(983, 468);
-            this.splitContainerControl1.Panel2.TabIndex = 1;
             this.splitContainerControl1.Panel2.Text = "Panel2";
-            this.splitContainerControl1.Size = new System.Drawing.Size(983, 508);
-            this.splitContainerControl1.SplitterPosition = 35;
+            this.splitContainerControl1.Size = new System.Drawing.Size(1311, 635);
+            this.splitContainerControl1.SplitterPosition = 44;
             this.splitContainerControl1.TabIndex = 0;
             // 
             // btn_Excel
             // 
-            this.btn_Excel.Location = new System.Drawing.Point(106, 6);
+            this.btn_Excel.Location = new System.Drawing.Point(142, 8);
+            this.btn_Excel.Margin = new System.Windows.Forms.Padding(4);
             this.btn_Excel.Name = "btn_Excel";
-            this.btn_Excel.Size = new System.Drawing.Size(75, 23);
+            this.btn_Excel.Size = new System.Drawing.Size(100, 29);
             this.btn_Excel.TabIndex = 39;
             this.btn_Excel.Text = "导出Excel";
             this.btn_Excel.UseVisualStyleBackColor = true;
@@ -178,9 +165,10 @@
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(12, 6);
+            this.btnSave.Location = new System.Drawing.Point(16, 8);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(4);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(75, 23);
+            this.btnSave.Size = new System.Drawing.Size(100, 29);
             this.btnSave.TabIndex = 2;
             this.btnSave.Text = "保存";
             this.btnSave.UseVisualStyleBackColor = true;
@@ -189,10 +177,12 @@
             // gridControl2
             // 
             this.gridControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gridControl2.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
             this.gridControl2.Location = new System.Drawing.Point(0, 0);
             this.gridControl2.MainView = this.gridView2;
+            this.gridControl2.Margin = new System.Windows.Forms.Padding(4);
             this.gridControl2.Name = "gridControl2";
-            this.gridControl2.Size = new System.Drawing.Size(815, 468);
+            this.gridControl2.Size = new System.Drawing.Size(1088, 585);
             this.gridControl2.TabIndex = 0;
             this.gridControl2.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView2});
@@ -213,6 +203,7 @@
             this.gridColumn15,
             this.gridColumn12,
             this.gridColumn13});
+            this.gridView2.DetailHeight = 437;
             this.gridView2.GridControl = this.gridControl2;
             this.gridView2.Name = "gridView2";
             this.gridView2.OptionsBehavior.AllowAddRows = DevExpress.Utils.DefaultBoolean.False;
@@ -226,99 +217,111 @@
             // 
             this.gridColumn14.Caption = "分类";
             this.gridColumn14.FieldName = "分类";
+            this.gridColumn14.MinWidth = 27;
             this.gridColumn14.Name = "gridColumn14";
             this.gridColumn14.Visible = true;
             this.gridColumn14.VisibleIndex = 0;
-            this.gridColumn14.Width = 58;
+            this.gridColumn14.Width = 77;
             // 
             // gridColumn5
             // 
             this.gridColumn5.Caption = "省份";
             this.gridColumn5.FieldName = "省份";
+            this.gridColumn5.MinWidth = 27;
             this.gridColumn5.Name = "gridColumn5";
             this.gridColumn5.Visible = true;
             this.gridColumn5.VisibleIndex = 1;
-            this.gridColumn5.Width = 65;
+            this.gridColumn5.Width = 87;
             // 
             // gridColumn6
             // 
             this.gridColumn6.Caption = "受理日期";
             this.gridColumn6.FieldName = "受理日期";
+            this.gridColumn6.MinWidth = 27;
             this.gridColumn6.Name = "gridColumn6";
             this.gridColumn6.Visible = true;
             this.gridColumn6.VisibleIndex = 2;
-            this.gridColumn6.Width = 82;
+            this.gridColumn6.Width = 109;
             // 
             // gridColumn7
             // 
             this.gridColumn7.Caption = "受理时间";
             this.gridColumn7.FieldName = "受理时间";
+            this.gridColumn7.MinWidth = 27;
             this.gridColumn7.Name = "gridColumn7";
             this.gridColumn7.Visible = true;
             this.gridColumn7.VisibleIndex = 3;
-            this.gridColumn7.Width = 82;
+            this.gridColumn7.Width = 109;
             // 
             // gridColumn8
             // 
             this.gridColumn8.Caption = "交货单号";
             this.gridColumn8.FieldName = "交货单号";
+            this.gridColumn8.MinWidth = 27;
             this.gridColumn8.Name = "gridColumn8";
             this.gridColumn8.Visible = true;
             this.gridColumn8.VisibleIndex = 4;
-            this.gridColumn8.Width = 82;
+            this.gridColumn8.Width = 109;
             // 
             // gridColumn9
             // 
             this.gridColumn9.Caption = "送达方名称";
             this.gridColumn9.FieldName = "送达方名称";
+            this.gridColumn9.MinWidth = 27;
             this.gridColumn9.Name = "gridColumn9";
             this.gridColumn9.Visible = true;
             this.gridColumn9.VisibleIndex = 5;
-            this.gridColumn9.Width = 82;
+            this.gridColumn9.Width = 109;
             // 
             // gridColumn10
             // 
             this.gridColumn10.Caption = "交货单金额";
             this.gridColumn10.FieldName = "交货单金额";
+            this.gridColumn10.MinWidth = 27;
             this.gridColumn10.Name = "gridColumn10";
             this.gridColumn10.Visible = true;
             this.gridColumn10.VisibleIndex = 6;
-            this.gridColumn10.Width = 82;
+            this.gridColumn10.Width = 109;
             // 
             // gridColumn11
             // 
             this.gridColumn11.Caption = "总单号";
             this.gridColumn11.FieldName = "总单号";
+            this.gridColumn11.MinWidth = 27;
             this.gridColumn11.Name = "gridColumn11";
             this.gridColumn11.Visible = true;
             this.gridColumn11.VisibleIndex = 7;
-            this.gridColumn11.Width = 82;
+            this.gridColumn11.Width = 109;
             // 
             // gridColumn15
             // 
             this.gridColumn15.Caption = "总箱数";
             this.gridColumn15.FieldName = "总箱数";
+            this.gridColumn15.MinWidth = 27;
             this.gridColumn15.Name = "gridColumn15";
             this.gridColumn15.Visible = true;
             this.gridColumn15.VisibleIndex = 8;
+            this.gridColumn15.Width = 100;
             // 
             // gridColumn12
             // 
             this.gridColumn12.Caption = "生成时间";
             this.gridColumn12.FieldName = "生成时间";
+            this.gridColumn12.MinWidth = 27;
             this.gridColumn12.Name = "gridColumn12";
             this.gridColumn12.Visible = true;
             this.gridColumn12.VisibleIndex = 9;
-            this.gridColumn12.Width = 82;
+            this.gridColumn12.Width = 109;
             // 
             // gridColumn13
             // 
             this.gridColumn13.Caption = "扫描时间";
             this.gridColumn13.FieldName = "扫描时间";
+            this.gridColumn13.MinWidth = 27;
             this.gridColumn13.Name = "gridColumn13";
             this.gridColumn13.Visible = true;
             this.gridColumn13.VisibleIndex = 10;
-            this.gridColumn13.Width = 100;
+            this.gridColumn13.Width = 133;
             // 
             // listView1
             // 
@@ -326,9 +329,10 @@
             this.columnHeader1,
             this.columnHeader2});
             this.listView1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.listView1.Location = new System.Drawing.Point(815, 0);
+            this.listView1.Location = new System.Drawing.Point(1088, 0);
+            this.listView1.Margin = new System.Windows.Forms.Padding(4);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(168, 468);
+            this.listView1.Size = new System.Drawing.Size(223, 585);
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
@@ -349,17 +353,19 @@
             this.tabNavigationPage1.Controls.Add(this.gridControl1);
             this.tabNavigationPage1.Controls.Add(this.flowLayoutPanel1);
             this.tabNavigationPage1.Controls.Add(this.panel1);
-            this.tabNavigationPage1.Enabled = true;
+            this.tabNavigationPage1.Margin = new System.Windows.Forms.Padding(4);
             this.tabNavigationPage1.Name = "tabNavigationPage1";
-            this.tabNavigationPage1.Size = new System.Drawing.Size(983, 503);
+            this.tabNavigationPage1.Size = new System.Drawing.Size(1311, 635);
             // 
             // gridControl1
             // 
             this.gridControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridControl1.Location = new System.Drawing.Point(0, 41);
+            this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
+            this.gridControl1.Location = new System.Drawing.Point(0, 51);
             this.gridControl1.MainView = this.gridView1;
+            this.gridControl1.Margin = new System.Windows.Forms.Padding(4);
             this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(809, 462);
+            this.gridControl1.Size = new System.Drawing.Size(1079, 584);
             this.gridControl1.TabIndex = 6;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
@@ -375,12 +381,10 @@
             this.gclSiteCode,
             this.gridColumn1,
             this.gridColumn3});
+            this.gridView1.DetailHeight = 437;
             this.gridView1.GridControl = this.gridControl1;
-            gridGroupSummaryItem1.DisplayFormat = "(已收集箱数: {0})";
-            gridGroupSummaryItem1.FieldName = "箱号";
-            gridGroupSummaryItem1.SummaryType = DevExpress.Data.SummaryItemType.Count;
             this.gridView1.GroupSummary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
-            gridGroupSummaryItem1});
+            new DevExpress.XtraGrid.GridGroupSummaryItem(DevExpress.Data.SummaryItemType.Count, "箱号", null, "(已收集箱数: {0})")});
             this.gridView1.Name = "gridView1";
             this.gridView1.OptionsCustomization.AllowGroup = false;
             this.gridView1.OptionsPrint.ExpandAllGroups = false;
@@ -390,72 +394,89 @@
             this.gclDeliverNo.Caption = "交货单号";
             this.gclDeliverNo.FieldName = "交货单号";
             this.gclDeliverNo.GroupInterval = DevExpress.XtraGrid.ColumnGroupInterval.Value;
+            this.gclDeliverNo.MinWidth = 27;
             this.gclDeliverNo.Name = "gclDeliverNo";
             this.gclDeliverNo.Visible = true;
             this.gclDeliverNo.VisibleIndex = 0;
+            this.gclDeliverNo.Width = 100;
             // 
             // gridColumn2
             // 
             this.gridColumn2.Caption = "分单号";
             this.gridColumn2.FieldName = "分单号";
+            this.gridColumn2.MinWidth = 27;
             this.gridColumn2.Name = "gridColumn2";
             this.gridColumn2.Visible = true;
             this.gridColumn2.VisibleIndex = 1;
+            this.gridColumn2.Width = 100;
             // 
             // gridColumn4
             // 
             this.gridColumn4.Caption = "箱件数";
             this.gridColumn4.FieldName = "箱件数";
+            this.gridColumn4.MinWidth = 27;
             this.gridColumn4.Name = "gridColumn4";
             this.gridColumn4.Visible = true;
             this.gridColumn4.VisibleIndex = 2;
+            this.gridColumn4.Width = 100;
             // 
             // gclCntrNo
             // 
             this.gclCntrNo.Caption = "箱号";
             this.gclCntrNo.FieldName = "箱号";
+            this.gclCntrNo.MinWidth = 27;
             this.gclCntrNo.Name = "gclCntrNo";
             this.gclCntrNo.Visible = true;
             this.gclCntrNo.VisibleIndex = 3;
+            this.gclCntrNo.Width = 100;
             // 
             // gclSiteName
             // 
             this.gclSiteName.Caption = "服务站名称";
             this.gclSiteName.FieldName = "服务站名称";
+            this.gclSiteName.MinWidth = 27;
             this.gclSiteName.Name = "gclSiteName";
             this.gclSiteName.Visible = true;
             this.gclSiteName.VisibleIndex = 4;
+            this.gclSiteName.Width = 100;
             // 
             // gclSiteCode
             // 
             this.gclSiteCode.Caption = "服务站代码";
             this.gclSiteCode.FieldName = "服务站代码";
+            this.gclSiteCode.MinWidth = 27;
             this.gclSiteCode.Name = "gclSiteCode";
             this.gclSiteCode.Visible = true;
             this.gclSiteCode.VisibleIndex = 5;
+            this.gclSiteCode.Width = 100;
             // 
             // gridColumn1
             // 
             this.gridColumn1.Caption = "生成时间";
             this.gridColumn1.FieldName = "生成时间";
+            this.gridColumn1.MinWidth = 27;
             this.gridColumn1.Name = "gridColumn1";
             this.gridColumn1.Visible = true;
             this.gridColumn1.VisibleIndex = 6;
+            this.gridColumn1.Width = 100;
             // 
             // gridColumn3
             // 
             this.gridColumn3.Caption = "扫描时间";
             this.gridColumn3.FieldName = "扫描时间";
+            this.gridColumn3.MinWidth = 27;
             this.gridColumn3.Name = "gridColumn3";
             this.gridColumn3.Visible = true;
             this.gridColumn3.VisibleIndex = 7;
+            this.gridColumn3.Width = 100;
             // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(809, 41);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(1079, 51);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(174, 462);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(232, 584);
             this.flowLayoutPanel1.TabIndex = 5;
             this.flowLayoutPanel1.Visible = false;
             // 
@@ -466,16 +487,18 @@
             this.panel1.Controls.Add(this.btnRun);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(983, 41);
+            this.panel1.Size = new System.Drawing.Size(1311, 51);
             this.panel1.TabIndex = 4;
             // 
             // btnReset
             // 
             this.btnReset.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnReset.Location = new System.Drawing.Point(823, 8);
+            this.btnReset.Location = new System.Drawing.Point(1097, 10);
+            this.btnReset.Margin = new System.Windows.Forms.Padding(4);
             this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(75, 23);
+            this.btnReset.Size = new System.Drawing.Size(100, 29);
             this.btnReset.TabIndex = 2;
             this.btnReset.Text = "重置";
             this.btnReset.UseVisualStyleBackColor = true;
@@ -483,9 +506,10 @@
             // 
             // btnExport
             // 
-            this.btnExport.Location = new System.Drawing.Point(12, 8);
+            this.btnExport.Location = new System.Drawing.Point(16, 10);
+            this.btnExport.Margin = new System.Windows.Forms.Padding(4);
             this.btnExport.Name = "btnExport";
-            this.btnExport.Size = new System.Drawing.Size(75, 23);
+            this.btnExport.Size = new System.Drawing.Size(100, 29);
             this.btnExport.TabIndex = 1;
             this.btnExport.Text = "导出";
             this.btnExport.UseVisualStyleBackColor = true;
@@ -497,9 +521,10 @@
             this.btnRun.BackColor = System.Drawing.Color.Red;
             this.btnRun.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnRun.ForeColor = System.Drawing.Color.White;
-            this.btnRun.Location = new System.Drawing.Point(904, 3);
+            this.btnRun.Location = new System.Drawing.Point(1205, 4);
+            this.btnRun.Margin = new System.Windows.Forms.Padding(4);
             this.btnRun.Name = "btnRun";
-            this.btnRun.Size = new System.Drawing.Size(75, 32);
+            this.btnRun.Size = new System.Drawing.Size(100, 40);
             this.btnRun.TabIndex = 0;
             this.btnRun.Text = "运行";
             this.btnRun.UseVisualStyleBackColor = false;
@@ -511,24 +536,26 @@
             this.tabPane1.Controls.Add(this.tabNavigationPage2);
             this.tabPane1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabPane1.Location = new System.Drawing.Point(0, 0);
+            this.tabPane1.Margin = new System.Windows.Forms.Padding(4);
             this.tabPane1.Name = "tabPane1";
             this.tabPane1.Pages.AddRange(new DevExpress.XtraBars.Navigation.NavigationPageBase[] {
             this.tabNavigationPage1,
             this.tabNavigationPage2});
-            this.tabPane1.RegularSize = new System.Drawing.Size(983, 531);
+            this.tabPane1.RegularSize = new System.Drawing.Size(1311, 670);
             this.tabPane1.SelectedPage = this.tabNavigationPage1;
-            this.tabPane1.Size = new System.Drawing.Size(983, 531);
+            this.tabPane1.Size = new System.Drawing.Size(1311, 670);
             this.tabPane1.TabIndex = 5;
             this.tabPane1.Text = "tabPane1";
             // 
             // MainApp
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(983, 557);
+            this.ClientSize = new System.Drawing.Size(1311, 696);
             this.Controls.Add(this.tabPane1);
             this.Controls.Add(this.statusStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainApp";
             this.Text = "发货信息收集程序";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -536,11 +563,12 @@
             this.Load += new System.EventHandler(this.MainApp_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1.Panel1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1.Panel2)).EndInit();
+            this.tabNavigationPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1)).EndInit();
+            this.splitContainerControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gridControl2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).EndInit();
+            this.tabNavigationPage1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             this.panel1.ResumeLayout(false);

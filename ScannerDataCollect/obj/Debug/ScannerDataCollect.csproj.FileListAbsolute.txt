@@ -377,6 +377,3 @@ D:\company_coding\ScannerDataCollectSolution\ScannerDataCollect\obj\Debug\Scanne
 D:\company_coding\ScannerDataCollectSolution\ScannerDataCollect\obj\Debug\ScannerDataCollect.csproj.CopyComplete
 D:\company_coding\ScannerDataCollectSolution\ScannerDataCollect\obj\Debug\ScannerDataCollect.exe
 D:\company_coding\ScannerDataCollectSolution\ScannerDataCollect\obj\Debug\ScannerDataCollect.pdb
-D:\Projects\ScannerDataCollectSolution\ScannerDataCollect\bin\Debug\ScannerDataCollect.exe.config
-D:\Projects\ScannerDataCollectSolution\ScannerDataCollect\obj\Debug\ScannerDataCollect.exe
-D:\Projects\ScannerDataCollectSolution\ScannerDataCollect\obj\Debug\ScannerDataCollect.pdb
